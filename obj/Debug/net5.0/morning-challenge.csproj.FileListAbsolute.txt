@@ -1,0 +1,16 @@
+C:\source\codeworks\c-sharp\morning-challenge\bin\Debug\net5.0\morning-challenge.exe
+C:\source\codeworks\c-sharp\morning-challenge\bin\Debug\net5.0\morning-challenge.deps.json
+C:\source\codeworks\c-sharp\morning-challenge\bin\Debug\net5.0\morning-challenge.runtimeconfig.json
+C:\source\codeworks\c-sharp\morning-challenge\bin\Debug\net5.0\morning-challenge.runtimeconfig.dev.json
+C:\source\codeworks\c-sharp\morning-challenge\bin\Debug\net5.0\morning-challenge.dll
+C:\source\codeworks\c-sharp\morning-challenge\bin\Debug\net5.0\ref\morning-challenge.dll
+C:\source\codeworks\c-sharp\morning-challenge\bin\Debug\net5.0\morning-challenge.pdb
+C:\source\codeworks\c-sharp\morning-challenge\obj\Debug\net5.0\morning-challenge.csprojAssemblyReference.cache
+C:\source\codeworks\c-sharp\morning-challenge\obj\Debug\net5.0\morning-challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\c-sharp\morning-challenge\obj\Debug\net5.0\morning-challenge.AssemblyInfoInputs.cache
+C:\source\codeworks\c-sharp\morning-challenge\obj\Debug\net5.0\morning-challenge.AssemblyInfo.cs
+C:\source\codeworks\c-sharp\morning-challenge\obj\Debug\net5.0\morning-challenge.csproj.CoreCompileInputs.cache
+C:\source\codeworks\c-sharp\morning-challenge\obj\Debug\net5.0\morning-challenge.dll
+C:\source\codeworks\c-sharp\morning-challenge\obj\Debug\net5.0\ref\morning-challenge.dll
+C:\source\codeworks\c-sharp\morning-challenge\obj\Debug\net5.0\morning-challenge.pdb
+C:\source\codeworks\c-sharp\morning-challenge\obj\Debug\net5.0\morning-challenge.genruntimeconfig.cache
